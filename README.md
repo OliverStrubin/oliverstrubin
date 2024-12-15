@@ -1,4 +1,4 @@
-# 👨‍💻 **[Your Name]** | Software Developer  
+# 👨‍💻 **Oliver Strubin** | Software Developer  
 
 Welcome to my GitHub profile! I specialize in crafting robust software solutions, from efficient backends to engaging user interfaces. My work is driven by a passion for solving problems and delivering impactful results.
 
